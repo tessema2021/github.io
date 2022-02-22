@@ -2110,6 +2110,16 @@ input, select, textarea {
 				#header .icons a:hover {
 					color: #fff;
 				}
+.features {
+	display: flex;
+	box-sizing: border-box;
+	border: #222629;
+
+}	
+.project {
+	border:solid;
+	background-color: rgb(3, 70, 70);
+}			
 
 	#logo {
 		position: relative;
