@@ -2110,15 +2110,17 @@ input, select, textarea {
 				#header .icons a:hover {
 					color: #fff;
 				}
+				.three {
+					background-color: #222629;
+				}
 .features {
-	display: flex;
-	box-sizing: border-box;
-	border: #222629;
+	display:flexbox;
+	/* border: #222629; */
 
 }	
 .project {
 	border:solid;
-	background-color: rgb(3, 70, 70);
+	
 }			
 
 	#logo {
