@@ -2110,9 +2110,10 @@ input, select, textarea {
 				#header .icons a:hover {
 					color: #fff;
 				}
-				.three {
-					background-color: #222629;
+				.content {
+					background-color: #222c33;
 				}
+			
 .features {
 	display:flexbox;
 	/* border: #222629; */
@@ -2120,6 +2121,7 @@ input, select, textarea {
 }	
 .project {
 	border:solid;
+	background-color: #222729;
 	
 }			
 
